@@ -1,3 +1,14 @@
+SS:
+
+
+
+
+![Screenshot (14)](https://github.com/ImArnav19/Movie_finder/assets/117253613/d34fd4bd-5312-4bc2-be5a-2664ac609ce3)
+
+![Screenshot (15)](https://github.com/ImArnav19/Movie_finder/assets/117253613/b74a6fff-3a6e-4cb5-962c-fad355c98c5c)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
