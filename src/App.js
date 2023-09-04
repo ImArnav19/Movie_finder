@@ -6,8 +6,8 @@ import './App.css'
 
 import Mcard from './Mcard';
 
-//1645aec4
-const API_KEY = 'http://www.omdbapi.com/?i=tt3896198&apikey=1645aec4';
+
+const API_KEY = 'http://www.omdbapi.com/?i=tt3896198&apikey=';
 
 const App = () => {
 
